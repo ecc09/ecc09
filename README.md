@@ -4,9 +4,9 @@
 
 <p>👋 Here are some of my projects.</p>
 <p>👀 I’m interested in cloud technologies such as Azure and AWS.</p>
-<p>🌱 I’m currently learning python.</p> 
+<p>🌱 I’m currently learning javascript.</p> 
 <p>💬 Ask me about ... Anything</p>
-<p>💞️ I’m looking to collaborate on any projects related to cloud services.</p>
+<p>💞️ I’m looking to collaborate on any projects related to software.</p>
 
   
 
